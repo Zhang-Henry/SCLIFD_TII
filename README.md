@@ -9,7 +9,7 @@ To set up the environment for this project using conda, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/SCLIFD.git
+    git clone https://github.com/Zhang-Henry/SCLIFD_TII.git
     cd SCLIFD
     ```
 
