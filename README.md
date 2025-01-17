@@ -1,6 +1,6 @@
 # SCLIFD: Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation
 
-This is the official code for IEEE Transactions on Industrial Informatics paper [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation]().
+This is the official code for IEEE Transactions on Industrial Informatics paper [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525).
 
 ## Installation
 
