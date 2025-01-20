@@ -2,6 +2,20 @@
 
 This is the official code for IEEE Transactions on Industrial Informatics paper [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525).
 
+
+If you use our code or data in this repo or find our work helpful, please consider giving a citation:
+
+```
+@misc{zhang2025classincrementalfaultdiagnosis,
+      title={Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation}, 
+      author={Hanrong Zhang and Yifei Yao and Zixuan Wang and Jiayuan Su and Mengxuan Li and Peng Peng and Hongwei Wang},
+      year={2025},
+      eprint={2501.09525},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2501.09525}, 
+}
+```
 ## Installation
 
 To set up the environment for this project using conda, follow these steps:
